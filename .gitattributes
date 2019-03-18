@@ -1,0 +1,2 @@
+secure/** filter=git-crypt diff=git-crypt
+variables.tf filter=git-crypt diff=git-crypt
